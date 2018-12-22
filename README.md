@@ -1,6 +1,6 @@
 # inBetween
 
-Visit http://strange-bird-199717.appspot.com now to try out our application!
+
 
 "Meet me halfway, right at the borderline is where I'm going to wait for you" -The Black Eyed Peas
 
